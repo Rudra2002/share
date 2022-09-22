@@ -1,0 +1,2 @@
+#! /usr/bin/bash
+curl -F"file=@$(find $(pwd) -type f | dmenu -i -l 25)" 0x0.st
