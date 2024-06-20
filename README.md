@@ -15,4 +15,5 @@ Ensure you have the following installed on your system:
 - `curl`
 - `dmenu`
 
+---
 
